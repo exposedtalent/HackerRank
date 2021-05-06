@@ -9,6 +9,7 @@ int main() {
     cin >> b;
     
     for(int i = a; i <= b; i++){
+        
         if (i == 1) { 
             cout << "one" << endl;
         }
